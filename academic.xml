@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Departments>
+<Mechanical_Engineering>
+<First_Year></First_Year>
+<Second_Year></Second_Year>
+<Third_Year></Third_Year>
+<Final_Year></Final_Year>
+</Mechanical_Engineering>
+<Civil_Engineering>
+<First_Year></First_Year>
+<Second_Year></Second_Year>
+<Third_Year></Third_Year>
+<Final_Year></Final_Year>
+</Civil_Engineering>
+<Computer_Engineering>
+<First_Year></First_Year>
+<Second_Year></Second_Year>
+<Third_Year></Third_Year>
+<Final_Year></Final_Year>
+</Computer_Engineering>
+<Electronics_Telicomunication_Engineering>
+<First_Year></First_Year>
+<Second_Year></Second_Year>
+<Third_Year></Third_Year>
+<Final_Year></Final_Year>
+</Electronics_Telicomunication_Engineering>
+</Departments>
